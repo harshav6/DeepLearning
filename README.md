@@ -1,6 +1,6 @@
 # Deep Learning
 
-## Count of Concepts Completed - 5
+## Count of Concepts Completed - 7
 
 ### Info
 
