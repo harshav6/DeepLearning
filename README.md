@@ -14,3 +14,5 @@
 - [x] LeNet
 - [x] AlexNet
 - [x] VGG
+- [x] InceptionV1
+- [x] ResNet
