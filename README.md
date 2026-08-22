@@ -1,6 +1,6 @@
 # Deep Learning
 
-## Count of Concepts Completed - 7
+## Count of Concepts Completed - 8
 
 ### Info
 
@@ -16,3 +16,4 @@
 - [x] VGG
 - [x] InceptionV1
 - [x] ResNet
+- [x] Keras Functional Model
